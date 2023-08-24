@@ -1,0 +1,5 @@
+com/chat/demo/ChatAppApplication.class
+com/chat/demo/ChatMessage.class
+com/chat/demo/MessageType.class
+com/chat/demo/controller/ChatController.class
+com/chat/demo/config/WebSocketConfig.class
